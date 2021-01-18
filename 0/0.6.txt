@@ -1,0 +1,9 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over selain:
+selain suorittaa tapahtumankäsittelijän
+joka renderöi muistiinpanot näytölle
+end note
+
+
+*lähde: osittain edellisen esimerkin mukaisesti kopioitu pohja.
